@@ -23,6 +23,7 @@ To run the Hospital Management System frontend, follow these steps:
 
 ```bash
 git clone <repository-url>
+```
 
 2. Navigate to the frontend directory:
 

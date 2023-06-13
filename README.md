@@ -40,4 +40,4 @@ npm install
 ```bash
 npm start
 ```
-4. Open your web browser and visit http://localhost:3000 to access the Hospital Management System.
+5. Open your web browser and visit http://localhost:3000 to access the Hospital Management System.

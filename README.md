@@ -29,15 +29,15 @@ git clone <repository-url>
 
 ```bash
 cd hospital-management-system-frontend
-
+```
 3. Install the dependencies:
 
 ```bash
 npm install
-
+```
 4. Start the development server:
 
 ```bash
 npm start
-
+```
 4. Open your web browser and visit http://localhost:3000 to access the Hospital Management System.

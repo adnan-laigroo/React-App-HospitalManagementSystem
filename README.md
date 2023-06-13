@@ -23,3 +23,20 @@ To run the Hospital Management System frontend, follow these steps:
 
 ```bash
 git clone <repository-url>
+
+2. Navigate to the frontend directory:
+
+```bash
+cd hospital-management-system-frontend
+
+3. Install the dependencies:
+
+```bash
+npm install
+
+4. Start the development server:
+
+```bash
+npm start
+
+4. Open your web browser and visit http://localhost:3000 to access the Hospital Management System.
